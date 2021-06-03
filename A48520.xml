@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two famous prophesies and predictions of Mr. William Lilly, the most judicious and learned astrologer of the age taken from his secret writings, penned by him in 1644 : the former of which, exactly pointing at the times, by foretelling the mischief, danger and misery these, and other Protestant kingdoms, should be exposed to, by the crafty counsels and treacheries of the Romish priests, and by what means their deliverance should be wrought.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48520</idno><idno type="EEBO-CITATION">12426469</idno>
+  <idno type="VID">61878</idno>
+  <idno type="EEBO-PROQUEST">2264214180</idno>
+  
+            <idno type="STC">Wing L2250</idno>
+            <idno type="STC">ESTC R12695</idno>
+            <idno type="OCLC">12426469</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61878)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 944:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two famous prophesies and predictions of Mr. William Lilly, the most judicious and learned astrologer of the age taken from his secret writings, penned by him in 1644 : the former of which, exactly pointing at the times, by foretelling the mischief, danger and misery these, and other Protestant kingdoms, should be exposed to, by the crafty counsels and treacheries of the Romish priests, and by what means their deliverance should be wrought.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prophecies.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+               <term type="topical_term">Anti-Catholicism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61878:1"/>
+            <pb facs="tcp:61878:1"/>
+            <p>TWO FAMOUS Prophesies and Predictions OF Mr. William Lilly, THE Most Judicious and Learned Astrologer of the Age: TAKEN From his Secret VVritings, Penned by him in 1644.</p>
+            <p>The former of which, exactly pointing at the Times, by Foretelling the Mis<g ref="char:EOLhyphen"/>chief, Danger and Misery these, and other Protestant Kingdoms should be exposed to, by the Crafty Counsels and Treacheries of the <hi>Romish</hi> Priests, and by what means their Deliverance should be wrought.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:61878:2"/>
+            <head>The second, Intimating the Decay and Ruine of a Great Family, <hi>&amp;c.</hi> To which is added, a Prophesie of <hi>Ambrose Mer<g ref="char:EOLhyphen"/>lyn,</hi> of above 1000 years standing.</head>
+            <p>SInce Time is generally accounted the Mother of Truth, we may well conclude, That many weighty Matters have frequently lay'n in Obscurity, and altogether unregarded, till their Effects have manifested them to the World. And this has been more singularly apparent, as well by the prophesies in Sacred VVrit, as by the Foresight and Predictions of the Learned and Judicious, tho not peradven<g ref="char:EOLhyphen"/>ture inspired with so large a Spirit of Di<g ref="char:EOLhyphen"/>vination, which in all <hi>Ages</hi> have been ta<g ref="char:EOLhyphen"/>ken Notice of, and <hi>Registred</hi> in the Histo<g ref="char:EOLhyphen"/>ries and Records of the more curious Observers of Times and Seasons in the Events of such Predictions, many of which
+<pb n="3" facs="tcp:61878:2"/> at certain <hi>Periods,</hi> have exactly come to pass; and amongst others, especially of the Modern, there have been none more wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thy of Observation, or requiring a strict<g ref="char:EOLhyphen"/>er Scrutiny, than those of Mr. <hi>WILLIAM LILLY,</hi> the <hi>Merlin</hi> of his Time, and Famous Astrologer: One of which more peculiarly, as we conceive, pointing at the present Times, we thought not amiss to communicate to the Reader; therefore take it in the following Account <hi>ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ba<g ref="char:EOLhyphen"/>tim,</hi> as it was abstracted from his Curiosi<g ref="char:EOLhyphen"/>ties and secret writings penned by him in the Year 1644.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prophecy">
+                        <head>THE PROPHECY.</head>
+                        <p>I <hi>Conceive that privately, and underhand, by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>yes, Treacheries, feigned and dis<g ref="char:EOLhyphen"/>sembled Treaties, and Embassadors, and by the Policy of the</hi> Jesuitical <hi>
+                              <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>action all over</hi>
+                           <pb n="4" facs="tcp:61878:3"/> Europe, <hi>the true Protestant Religion shall be infinitly distressed, and the heavenly Inten<g ref="char:EOLhyphen"/>tions impedited, and all those Countries pro<g ref="char:EOLhyphen"/>fessing</hi> Protestanism, <hi>exceedingly molested by so secret and close a Compact of Villains, and False hearted Traytors, lurking in the Bo<g ref="char:EOLhyphen"/>soms and Closets of Princes, that many will think that Popery and Papism shall return to its old seat in every Countrey, but that it ne<g ref="char:EOLhyphen"/>ver will in these our Kingdoms: For God will miraculously, by means of some young</hi> Prince, <hi>or Commonality of People, discover and bring to Light, the closs mystery of all those Plots, that from the Year</hi> 1603, <hi>until above</hi> 50 <hi>Years be accomplished, shall involve (at times) all</hi> Christendom <hi>in most bloo<g ref="char:EOLhyphen"/>dy Broils.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus far as to his first Prophesie, point<g ref="char:EOLhyphen"/>ing at the present Condition of this Dis<g ref="char:EOLhyphen"/>ordered Kingdom, too much involved
+<pb n="5" facs="tcp:61878:3"/> in misery, by the Craft and Insinuation of the <hi>Romish</hi> Clergy, who, to enrich themselves, and bring about the Designs they evidently have of Re-establishing their erroneous Religion, care not by their violent Counsels, and illegal Pra<g ref="char:EOLhyphen"/>ctices, to what Hazard, Danger, or Ru<g ref="char:EOLhyphen"/>ine they expose the Prince and People; Nor to what Cruelty they proceed, were they not restrained by an overruling Providence in compassing, or designing to compass their wretched purposes. But not to Com<g ref="char:EOLhyphen"/>ment upon that which has been but too apparent to the Eyes of all discerning peo<g ref="char:EOLhyphen"/>ple, we proceed to a second Prophesie, or Prediction of Mr. <hi>Lilly</hi>'s, more dark and occult than the former, submitting it to the Judgment of the Reader, and strict Search and Enquiry of those that are cu<g ref="char:EOLhyphen"/>rious to pry into the Volumes of Fate:
+<pb n="6" facs="tcp:61878:4"/> However take the words of this Learned Man, as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <p>WO to a great Family in <hi>Europe,</hi> that was, is now, but shall not be. It's not Old, it's not Ancient, but like an untimely Birth, it's cut off, and shall not flourish in Branch or Root. Lord God, shall the Number of Fifty, cut off more than Five? Shall less than Ninety, be alotted for Four? Shall the Virgin be Barren, and the Lyon have no Issue? Shall the Second end in a Cypher? And Seven come to be One, and then None?</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus much for this Prediction, (which indeed is very obscure, either as to the Fa<g ref="char:EOLhyphen"/>mily, or Countrey) being only limited to <hi>Europe;</hi> but to what part of <hi>Europe,</hi> we must leave to Conjecturals, as not being
+<pb n="7" facs="tcp:61878:4"/> capable of determining, the thing being as yet to come: For since the writing of this Prediction, or Prophesie, we have not heard that any Family of extraordinary No<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and Grandeur, has been extinguish<g ref="char:EOLhyphen"/>ed in <hi>Europe;</hi> Nor do we, by reason of the Number of 90, therein mentioned, conclude it already come to pass, but ra<g ref="char:EOLhyphen"/>ther expecting the Time of its accom<g ref="char:EOLhyphen"/>plishment.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prophecy">
+                        <head>A Prophesie of <hi>Ambrose Merlyn</hi>'s, left by him above One thousand Years since.</head>
+                        <p>
+                           <hi>LONDON (says he)</hi> should be<g ref="char:EOLhyphen"/>wail the Loss of Her Twenty Thou<g ref="char:EOLhyphen"/>sand Men, and the River of <hi>THAMES</hi> should be turned into Blood.</p>
+                        <pb n="8" facs="tcp:61878:5"/>
+                        <p>This indeed as to the Loss of the People has hapned in seve<g ref="char:EOLhyphen"/>ral Plagues and Contagions, but in no History we find that the River of <hi>Thames</hi> was ever turned into, or coloured with blood: Nor can it be, but by some extraordinary Slaughter either upon it, or near it, which God in his Mercy prevent, and send Peace and Unity in our Days, that in the true Faith and Fear of Him, we may live happy the remaining part of our Lives, in spite of those that seek to disturb and undermine, and over<g ref="char:EOLhyphen"/>throw the established Religion, Laws, and Protestant Ʋnity of these flourishing Kingdoms.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>Five Lines of the PROPHECY called by Lord <hi>Powis</hi>'s Name, because kept in his Family Sixty Years, say<g ref="char:EOLhyphen"/>ing,
+<q>
+                  <l>— Shal into the Saddle slide,</l>
+                  <l>And Furiously to <hi>ROME</hi> shall Ride.</l>
+                  <l>The POPE shall have a Fatal Fall,</l>
+                  <l>And never trouble more <hi>WHITEHALL,</hi>
+                  </l>
+                  <l>Nor <hi>ENGLAND's</hi> People more Enthrall.</l>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61878:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
